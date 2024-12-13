@@ -1,0 +1,5 @@
+Laravel Model Commands:
+
+php artisan make:model ModelName (creates a model in app/model directory)
+
+php artisan make:model ModelName -m (also creates a migration file)
